@@ -1,0 +1,1 @@
+package com.demo.spring.uber.domain;public class Location {}
